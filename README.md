@@ -1,2 +1,2 @@
 # scraping-for-candidates
- Scraping for Congressional Candidates campaign sites and social Pages
+ Scraping for Congressional candidates' campaign sites and social pages
