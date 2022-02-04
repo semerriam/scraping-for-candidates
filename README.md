@@ -7,7 +7,7 @@ This repository scrapes [Ballotpedia.org/](https://www.ballotpedia.org/) for Con
 ## Ballotpedia 
 
 The notebook, [Scraping_for_candidates.ipynb](Scraping_for_candidates.ipynb) scrapes Ballotpedia for each campaign's website and social media profiles (facebook, instagram, twitter, etc.) in  a multi-step process:
-Markup : 1. Scrapes the Ballotpedia 2022 Congressional Election main page for urls for pages of each state where a Congressional election occurs
+ 1. A numbered list: 1. Scrapes the Ballotpedia 2022 Congressional Election main page for urls for pages of each state where a Congressional election occurs
          2. Scrapes the Ballotpedia pages for each state, gathering the urls for each candidate running for Congress
          3. Scrapes each candidate's page on Ballotpedia, gathering the urls for each campaigns's wesite and social media profiles (facebook, instagram, twitter, etc.)
  
