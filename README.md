@@ -11,9 +11,9 @@ The notebook, [Scraping_for_candidates.ipynb](Scraping_for_candidates.ipynb) scr
  2. Scrapes the Ballotpedia pages for each state, gathering the urls for each candidate running for Congress
  3. Scrapes each candidate's page, gathering the urls for each candidate's campaign website and social media links (facebook, instagram, twitter, etc.)
 
-## Candidates' Campaign Pages (In-Progress)
+## Candidates' Campaign Websites (In-Progress)
 
-## Candidates' Facebook Photo Pages (In-Progress)
+## Candidates' Facebook (In-Progress)
 
 ## Candidates' Instagram (In-Progress) 
  
